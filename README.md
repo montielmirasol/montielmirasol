@@ -5,3 +5,10 @@
 🎓 **Master’s in Innovation & Entrepreneurship** from a top French institution  
 💡 Proven track record in **leading high-performance teams**, driving **growth**, and optimizing **cash flow** 💰  
 🚀 Focused on **data-driven innovation** for **sustainable success**  
+
+## Tools
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy Badge](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Visual Studio Code Badge](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
