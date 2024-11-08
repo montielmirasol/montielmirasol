@@ -12,3 +12,7 @@
 ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Visual Studio Code Badge](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
