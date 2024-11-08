@@ -6,6 +6,8 @@
 💰 Proven track record in **leading high-performance teams**, driving **growth**, and optimizing **cash flow**   
 🚀 Focused on **data-driven innovation** for **sustainable success**  
 
+Remote change
+
 ## Tools
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
